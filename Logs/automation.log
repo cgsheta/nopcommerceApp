@@ -1,0 +1,30 @@
+2023-04-09 17:35:56,339- root- INFO- **************Test_001_Login*************
+2023-04-09 17:35:56,339- root- INFO- *************Verifying Home Page**************
+2023-04-09 17:35:57,845- root- INFO- *************Home Page title is passed**************
+2023-04-09 17:35:59,038- root- INFO- *************Verifying the login test**************
+2023-04-09 17:36:07,072- root- INFO- *************Login test is passed**************
+2023-04-09 17:46:55,538- root- INFO- **************Test_001_Login*************
+2023-04-09 17:46:55,538- root- INFO- *************Verifying Home Page**************
+2023-04-09 17:46:56,850- root- INFO- *************Home Page title is passed**************
+2023-04-09 17:46:58,049- root- INFO- *************Verifying the login test**************
+2023-04-09 17:47:01,885- root- INFO- *************Login test is passed**************
+2023-04-09 18:40:43,457- root- INFO- **************Test_001_Login*************
+2023-04-09 18:40:43,458- root- INFO- *************Verifying Home Page**************
+2023-04-09 18:40:52,147- root- INFO- *************Home Page title is passed**************
+2023-04-09 18:40:55,470- root- INFO- *************Verifying the login test**************
+2023-04-09 18:41:00,552- root- INFO- *************Login test is passed**************
+2023-04-09 20:46:56,664- root- INFO- **************Test_001_Login*************
+2023-04-09 20:46:56,665- root- INFO- *************Verifying Home Page**************
+2023-04-09 20:46:58,795- root- INFO- *************Home Page title is passed**************
+2023-04-09 20:46:58,879- root- INFO- *************Verifying the login test**************
+2023-04-09 20:47:04,161- root- INFO- *************Login test is passed**************
+2023-04-09 20:57:42,101- root- INFO- **************Test_001_Login*************
+2023-04-09 20:57:42,101- root- INFO- *************Verifying Home Page**************
+2023-04-09 20:57:42,982- root- INFO- *************Home Page title is passed**************
+2023-04-09 20:57:44,127- root- INFO- *************Verifying the login test**************
+2023-04-09 20:57:47,638- root- INFO- *************Login test is passed**************
+2023-04-10 09:47:05,211- root- INFO- **************Test_001_Login*************
+2023-04-10 09:47:05,212- root- INFO- *************Verifying Home Page**************
+2023-04-10 09:47:06,729- root- INFO- *************Verifying the login test**************
+2023-04-10 09:47:13,561- root- INFO- *************Login test is passed**************
+2023-04-10 09:47:15,600- root- INFO- *************Home Page title is passed**************
